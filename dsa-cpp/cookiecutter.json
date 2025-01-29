@@ -1,0 +1,6 @@
+{
+  "name": "",
+  "link": "",
+  "dir_name": "{{cookiecutter.name|lower|replace(' ', '_')|replace('.', '_')|replace('__', '_')}}",
+  "file_name": "{{cookiecutter.name|lower|replace(' ', '_')|replace('.', '_')|replace('__', '_')}}"
+}
